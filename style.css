@@ -1,0 +1,192 @@
+
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+}
+
+h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Navbar Styles */
+header {
+    background-color: #333;
+    padding: 15px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    font-size: 18px;
+    color: #f0f0f0;
+}
+
+nav ul li a:hover {
+    color: #ffcc00;
+}
+
+/* Section Styles */
+section {
+    padding: 60px 20px;
+    margin-top: 20px;
+}
+
+.content {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#home .content h1 {
+    font-size: 36px;
+    color: #ffcc00;
+}
+
+section h2 {
+    font-size: 30px;
+    color: #ffcc00;
+}
+
+section p {
+    font-size: 18px;
+    color: #f0f0f0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #f0f0f0;
+}
+
+/* Contact Form Styles */
+form input, form textarea {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #555;
+    border-radius: 5px;
+    background-color: #333;
+    color: #f0f0f0;
+}
+
+form button {
+    padding: 12px 20px;
+    background-color: #ffcc00;
+    border: none;
+    border-radius: 5px;
+    color: #333;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #e5a900;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #f0f0f0;
+}
+.content1{
+    height: 800px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-items: center;
+
+}
+.logo{
+    margin-right: 200px;
+    margin-top: 200px;
+    border-radius: 200px;
+}
+#hello{
+    font-size: 70px;
+    margin-top: 200px;
+    margin-right: 400px;
+}
+
+.world{
+    margin-top: 70px;margin-left: 30px;
+}
+.content2{
+    height: 800px;
+    background-color: black;
+    
+}
+#style1{
+    font-size: 50px;
+    margin-left: 850px;
+}
+#style2{
+    margin-left: 300px;
+    font-size: 50px;
+    margin-top: 200px;
+}
+.content3{
+    height: 800px;
+    background-color: black;
+}
+#style3{
+    margin-left: 850px;
+    font-size: 50px;
+}
+#style4{
+    margin-left: 700px;
+    font-size: 50px;
+    margin-top: 70px;
+}
+#style5{
+    margin-left: 700px;
+    margin-top: 80px;
+    font-size: 50px;
+}
+#style6{
+    margin-left: 700px;
+    margin-top: 70px;
+    font-size: 50px;
+}
+.content4{
+    height: 800px;
+    background-color: black;
+}
+#style7{
+    margin-left: 900px;
+    font-size: 50px;
+    
+}
+#STYLE8{
+    margin-left: 500PX;
+    margin-top: 300PX;
+    font-size: 50PX;
+}
